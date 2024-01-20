@@ -2,7 +2,7 @@
 
 适用于 Godot4.2 的口袋工厂SDK接入。
 
-当前适用版本：Godot4.2.1 Stable
+当前适用版本：Godot4.2.1 Stable（你也可以自己编译）
 
 ## 用法
 
